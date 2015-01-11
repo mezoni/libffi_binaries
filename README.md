@@ -10,3 +10,4 @@ Version: 0.6.2
 - X86 Linux
 - X86 Windows
 - X86_64 Linux
+- X86_64 Windows
