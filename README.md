@@ -8,8 +8,8 @@ Version: 0.6.5
 **Supported platforms**  
 
 - X86 Linux
-- X86 Windows
 - X86 Mac OS
+- X86 Windows
 - X86_64 Linux
 - X86_64 Mac OS
 - X86_64 Windows
