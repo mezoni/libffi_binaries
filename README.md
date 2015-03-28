@@ -8,6 +8,7 @@ Version: 0.6.6
 **Supported platforms**
 
 - ARM Android
+- ARM Linux
 - X86 Linux
 - X86 Windows
 - X86_64 Linux
@@ -15,5 +16,7 @@ Version: 0.6.6
 - X86_64 Windows
 
 Special thanks to [Kenneth Endfinger](https://github.com/kaendfinger) for compiling the binaries:
+
 - ARM Android
+- ARM Linux
 - X86_64 Mac OS X

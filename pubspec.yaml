@@ -1,5 +1,5 @@
 name: libffi_binaries
-version: 0.6.6
+version: 0.6.7
 author: Andrew Mezoni <andrew.mezoni@gmail.com>
 description: Compiled binary files "libffi" library for the various platforms.
 homepage: https://github.com/mezoni/libffi_binaries
